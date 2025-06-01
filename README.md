@@ -1,6 +1,6 @@
  Expedia Hotel Search Analysis Project
 
-![Analysis Overview](visualizations/hotel_search_analysis.png)
+![Analysis Overview](Expedia_Analysis/visualizations/hotel_search_analysis.png)
 
 🔍 Project Overview
 Analysis of Expedia's hotel search data to understand user behavior, booking patterns, and market trends. Processed 100,000+ search records to identify key insights for business optimization.
@@ -12,4 +12,4 @@ Analysis of Expedia's hotel search data to understand user behavior, booking pat
 4. **Traveler Profiles**: 45% solo travelers, 30% couples
 5. **Package Deals**: 28.7% of searches include package deals
 
-## 📂 Repository Structure
+📂 Repository Structure
