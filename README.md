@@ -13,3 +13,9 @@ Analysis of Expedia's hotel search data to understand user behavior, booking pat
 5. **Package Deals**: 28.7% of searches include package deals
 
 📂 Repository Structure
+expedia-hotel-analysis/Expedia Analyss
+├── data/ # Dataset directory (not included in repo)
+├── notebooks/ # Jupyter notebooks with analysis
+├── visualizations/ # Generated charts and graphs
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
